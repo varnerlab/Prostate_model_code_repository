@@ -1,10 +1,10 @@
 ## Prostate Cancer Model Code
 
-#####author: kvr28@cornell.edu (Katharine Rogers)
-#####location: [Varnerlab](http://www.varnerlab.org), Cornell University
-#####version: 1.0
+##### author: kvr28@cornell.edu (Katharine Rogers)
+##### location: [Varnerlab](http://www.varnerlab.org), Cornell University
+##### version: 1.0
 
-### Background ###
+### Background
 The model equations describe the signal transduction in a prostate cell due to different inputs (i.e. DHT, EGF). Different cell types (LNCaP C33, C51, and C81) are modeled.
 The model was adapted from our previous prostate model:
 
@@ -14,7 +14,7 @@ and newer literature. The updated model equations and findings are described in 
 
 [Rogers K, Wayman J, Tasseff R, Gee C, DeLisa M and J. Varner (2016) Modeling and Analysis of Hormone and Mitogenic Signal Integration in Prostate Cancer. bioRxiv 058552; doi: http://dx.doi.org/10.1101/058552](http://biorxiv.org/content/early/2016/06/13/058552)
 
-### Instructions ###
+### Instructions
 
 __How do we download and use the model code?__
 Click the download ZIP button on the lower right hand of this page. A zip archive containing the model code will automatically download to your computer.
